@@ -1,1 +1,0 @@
-print("Olá Mundo! 4Linux")
